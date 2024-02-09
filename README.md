@@ -1,6 +1,6 @@
 Hello, I'm vaguely aware of what computers are. 
 
-Very much a baby in software engineering and programming, trying to learn things as I go. 
+Beginner Web Developer - HTML | CSS | Javascript | React 
 
 <!--
 **dotMonoMono/dotMonoMono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
